@@ -15,4 +15,3 @@ elif delta >0:
     print("Funkcja ma dwa miejsca zerowe: " ,{x1} ,"i" ,{x2})
 else:
     print("Delta mnijesza od zera - brak rozwiązań")
-
