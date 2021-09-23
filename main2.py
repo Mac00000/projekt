@@ -9,6 +9,8 @@ Przykład elementu wyświetlanej listy:
 Dodatkowo korzystając z instrukcji warunkowych sprawdź, która pizza ma najlepszy stosunek cenu do ilości i wyświetl informacje tej pizzy podobnie jak w powyższym przykładzie.
 '''
 
+
+
 import math
 import sys
 
